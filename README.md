@@ -50,3 +50,6 @@ To view a list of resources that have been created
 ```
 terraform state list
 ```
+
+### TODO
+- add resource groups
